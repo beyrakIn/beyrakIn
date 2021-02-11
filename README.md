@@ -22,7 +22,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/beyrak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beyrak" /></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/beyrak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beyrak" /></a></p><br><br><br><br><br><br>
 
 
 <p>
