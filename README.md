@@ -1,18 +1,17 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Beyrak</h1>
 <h3 align="center">Mobile developer, Web developer, Cyber security researcher</h3>
 
-<br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=beyrakin&theme=dark&count_private=true&show_icons=true" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=beyrakin&theme=dark&count_private=true&show_icons=true" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyrakin&label=Profile%20views&color=ec1313&style=flat" alt="beyrakin" /> </p>
 
-- 🔭 I’m currently working on **E-commere project**
+- 🔭 I’m currently working on **E-commerce project**
 
 - 💬 Ask me about **Java, React, Flutter**
 
 - 📫 How to reach me **beyraklnc@gmail.com**
 
-- 📄 Know about my experiences [Android developer and Web developer](Android developer and Web developer)
+- 📄 Know about my experiences (Android developer and Web developer)
 
 - ⚡ Fun fact **Tennis, Music and Game**
 
