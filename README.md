@@ -1,8 +1,14 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Beyrak</h1>
 <h3 align="center">Mobile developer, Web developer, Cyber security researcher</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=beyrakin&label=Profile%20views&color=ec1313&style=flat" alt="beyrakin" /> 
-   ![About](https://img.shields.io/badge/About-beyrakIn-grightgreen)</br>
+<p align="center"> 
+   <img src="https://komarev.com/ghpvc/?username=beyrakin&label=Profile%20views&color=ec1313&style=flat" alt="beyrakin" /> 
+   </br>
+   ![About](https://img.shields.io/badge/About-beyrakIn-grightgreen)
+   <br/><br/>
+[![Sponsor](https://img.shields.io/badge/Sponsor-CodersRank-blue)](https://codersrank.io/) greatly contribute to the creation of new contents.
+<br/><br/>
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=uigitdev) 
 
 </p> 
 
