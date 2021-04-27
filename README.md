@@ -4,6 +4,7 @@
 <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=beyrakin&label=Profile%20views&color=ec1313&style=flat" alt="beyrakin" /> 
    <img src="https://img.shields.io/github/followers/beyrakIn?style=social" />
+   <img  src="https://img.shields.io/twitter/url?style=social&url=beyrakmsc" />
    </br>
 
 </p> 
