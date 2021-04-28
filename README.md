@@ -85,18 +85,18 @@
 * **Social**
 
 <p align="center">
-    <a href="https://instagram.com/beyrvk" target="_blank">  <img alt="Instagram" src="https://img.shields.io/badge/<beyrvk>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  </a> 
-    <a href="https://twitter.com/beyrakmsc" target="_blank"> <img alt="Twitter" src="https://img.shields.io/badge/<beyrakmsc>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
-    <a href="mailto:beyreke20509@sabah.edu.az" target="_blank"> <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>
-    <a href="https://www.linkedin.com/in/beyrak-asgarzada-15b4771b5/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-    <a href="https://discord.gg/mCXUy6j2Gb" target="_blank"> <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a>
-    <a href="https://medium.com/@beyrak" target="_blank"> <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>  </a>
+    <a target="_blank" href="https://instagram.com/beyrvk">  <img alt="Instagram" src="https://img.shields.io/badge/<beyrvk>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  </a> 
+    <a target="_blank" href="https://twitter.com/beyrakmsc"> <img alt="Twitter" src="https://img.shields.io/badge/<beyrakmsc>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
+    <a target="_blank" href="mailto:beyreke20509@sabah.edu.az"> <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>
+    <a target="_blank" href="https://www.linkedin.com/in/beyrak-asgarzada-15b4771b5/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+    <a target="_blank" href="https://discord.gg/mCXUy6j2Gb"> <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a>
+    <a target="_blank" href="https://medium.com/@beyrak"> <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>  </a>
 </p>
 
 * **Store**
 
 <p align="center">
-    <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+    <a target="_blank" href="https://play.google.com/store/apps/dev?id=6201781260021506329">    <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> </a>
 </p>
 
 * **Music**
