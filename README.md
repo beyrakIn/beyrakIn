@@ -80,8 +80,8 @@
     **Social**
 
 <p align="center">
-    <img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-    <img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/<beyrvk>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img alt="Twitter" src="https://img.shields.io/badge/<beyrakmsc>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
     <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
