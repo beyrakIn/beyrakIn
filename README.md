@@ -82,7 +82,7 @@
 *    **Social**
 
 <p align="center">
-    <a alt="Instagram" href="https://instagram.com/beyrvk" src="https://img.shields.io/badge/<beyrvk>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <a href="https://instagram.com/beyrvk">  <img alt="Instagram" src="https://img.shields.io/badge/<beyrvk>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  </a> 
     <img alt="Twitter" src="https://img.shields.io/badge/<beyrakmsc>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
     <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
