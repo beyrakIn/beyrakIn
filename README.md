@@ -2,10 +2,12 @@
 <h3 align="center">Mobile developer, Web developer, Cyber security researcher</h3>
 
 <p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=beyrakin&label=Profile%20views&color=ec1313&style=flat" alt="beyrakin" /> 
+
+[comment]: <> (   <img src="https://komarev.com/ghpvc/?username=beyrakin&label=Profile%20views&color=ec1313&style=flat" alt="beyrakin" /> )
 
 [comment]: <> (   <img src="https://img.shields.io/github/followers/beyrakIn?style=social" />)
-   <img  src="https://img.shields.io/twitter/follow/beyrakmsc?style=social" />
+
+[comment]: <> (   <img  src="https://img.shields.io/twitter/follow/beyrakmsc?style=social" />)
 
 [comment]: <> (   <img src="https://img.shields.io/github/sponsors/beyrakIn?style=social" />)
    </br>
@@ -69,30 +71,40 @@
     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> 
 </p>
 
-* **IDEs/Editors**
+[comment]: <> (* **IDEs/Editors**)
 
-<p align="center">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</p>
+[comment]: <> (<p align="center">)
 
-* **Version Control**
+[comment]: <> (    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>)
 
-<p align="center">
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+[comment]: <> (    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>)
+
+[comment]: <> (    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>)
+
+[comment]: <> (</p>)
+
+[comment]: <> (* **Version Control**)
+
+[comment]: <> (<p align="center">)
+
+[comment]: <> (    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>)
+
+[comment]: <> (    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>)
+
+[comment]: <> (</p>)
 
 * **Social**
 
 <p align="center">
     <a target="_blank" href="https://instagram.com/beyrvk">  <img alt="Instagram" src="https://img.shields.io/badge/<beyrvk>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  </a> 
     <a target="_blank" href="https://twitter.com/beyrakmsc"> <img alt="Twitter" src="https://img.shields.io/badge/<beyrakmsc>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
-    <a target="_blank" href="mailto:beyreke20509@sabah.edu.az"> <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>
-    <a target="_blank" href="https://www.linkedin.com/in/beyrak-asgarzada-15b4771b5/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-    <a target="_blank" href="https://discord.gg/mCXUy6j2Gb"> <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a>
-    <a target="_blank" href="https://medium.com/@beyrak"> <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>  </a>
+    <a target="_blank" href="https://www.linkedin.com/in/beyrak/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+[comment]: <> (    <a target="_blank" href="mailto:beyreke20509@sabah.edu.az"> <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>)
+
+[comment]: <> (    <a target="_blank" href="https://discord.gg/mCXUy6j2Gb"> <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a>)
+
+[comment]: <> (    <a target="_blank" href="https://medium.com/@beyrak"> <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>  </a>)
 </p>
 
 * **Store**
@@ -101,21 +113,29 @@
     <a target="_blank" href="https://play.google.com/store/apps/dev?id=6201781260021506329">    <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> </a>
 </p>
 
-* **Music**
+[comment]: <> (* **Music**)
 
-<p align="center">
-    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-    <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />
-</p>
+[comment]: <> (<p align="center">)
 
-* **Operating System**
+[comment]: <> (    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />)
 
-<p align="center">
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
-    <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
+[comment]: <> (    <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />)
+
+[comment]: <> (</p>)
+
+[comment]: <> (* **Operating System**)
+
+[comment]: <> (<p align="center">)
+
+[comment]: <> (    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />)
+
+[comment]: <> (    <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />)
+
+[comment]: <> (    <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />)
+
+[comment]: <> (    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />)
+
+[comment]: <> (</p>)
 
 
 [comment]: <> (<h3 align="left">Support:</h3>)
