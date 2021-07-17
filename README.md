@@ -1,15 +1,17 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Beyrak</h1>
-<h3 align="center">Mobile developer, Web developer, Cyber security researcher</h3>
+<!-- <h3 align="center">Mobile developer, Web developer, Cyber security researcher</h3> -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Engineer%F0%9F%92%BB;I'm+Cyber+Security+Enthusiast;Have+Knowledge+of+Ethical+Hacking;I'm+Mobile+developer;Always+try+to+learn+new+things)](https://git.io/typing-svg)
 
 <p align="center"> 
 
-[comment]: <> (   <img src="https://komarev.com/ghpvc/?username=beyrakin&label=Profile%20views&color=ec1313&style=flat" alt="beyrakin" /> )
+<!-- <img src="https://komarev.com/ghpvc/?username=beyrakin&label=Profile%20views&color=ec1313&style=flat" alt="beyrakin" />  -->
 
-[comment]: <> (   <img src="https://img.shields.io/github/followers/beyrakIn?style=social" />)
+<!-- <img src="https://img.shields.io/github/followers/beyrakIn?style=social" /> -->
 
-[comment]: <> (   <img  src="https://img.shields.io/twitter/follow/beyrakmsc?style=social" />)
+<!-- <img  src="https://img.shields.io/twitter/follow/beyrakmsc?style=social" /> -->
 
-[comment]: <> (   <img src="https://img.shields.io/github/sponsors/beyrakIn?style=social" />)
+<!-- <img src="https://img.shields.io/github/sponsors/beyrakIn?style=social" /> -->
    </br>
 
 </p> 
@@ -26,11 +28,11 @@
 
 - ⚡ Fun fact **Tennis, Music and Game**
 
-[comment]: <> (<div align="center">)
+<!-- <div align="center"> -->
 
-[comment]: <> (   <img src="https://github-profile-trophy.vercel.app/?username=beyrakin&theme=flat&no-frame=true&margin-w=30" />)
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=beyrakin&theme=flat&no-frame=true&margin-w=30" /> -->
 
-[comment]: <> (</div>)
+<!-- </div> -->
 
 
 [comment]: <> (<h3 align="left">Connect with me:</h3>)
@@ -60,7 +62,7 @@
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
-
+<!-- 
 * **Frameworks and libraries**
 
 <p align="center">
@@ -69,43 +71,14 @@
     <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> 
-</p>
-
-[comment]: <> (* **IDEs/Editors**)
-
-[comment]: <> (<p align="center">)
-
-[comment]: <> (    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>)
-
-[comment]: <> (    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>)
-
-[comment]: <> (    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>)
-
-[comment]: <> (</p>)
-
-[comment]: <> (* **Version Control**)
-
-[comment]: <> (<p align="center">)
-
-[comment]: <> (    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>)
-
-[comment]: <> (    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>)
-
-[comment]: <> (</p>)
+</p> -->
 
 * **Social**
 
 <p align="center">
-    <a target="_blank" href="https://instagram.com/beyrvk">  <img alt="Instagram" src="https://img.shields.io/badge/<beyrvk>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  </a> 
-    <a target="_blank" href="https://twitter.com/beyrakmsc"> <img alt="Twitter" src="https://img.shields.io/badge/<beyrakmsc>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
+    <a target="_blank" href="https://instagram.com/beyrvk">  <img alt="Instagram" src="https://img.shields.io/badge/<beirvk>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  </a> 
+    <a target="_blank" href="https://twitter.com/beyrakmsc"> <img alt="Twitter" src="https://img.shields.io/badge/<beirvk>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
     <a target="_blank" href="https://www.linkedin.com/in/beyrak/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-[comment]: <> (    <a target="_blank" href="mailto:beyreke20509@sabah.edu.az"> <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>)
-
-[comment]: <> (    <a target="_blank" href="https://discord.gg/mCXUy6j2Gb"> <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a>)
-
-[comment]: <> (    <a target="_blank" href="https://medium.com/@beyrak"> <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>  </a>)
-</p>
 
 * **Store**
 
@@ -113,29 +86,15 @@
     <a target="_blank" href="https://play.google.com/store/apps/dev?id=6201781260021506329">    <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> </a>
 </p>
 
-[comment]: <> (* **Music**)
 
-[comment]: <> (<p align="center">)
+* **Operating System**
 
-[comment]: <> (    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />)
-
-[comment]: <> (    <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />)
-
-[comment]: <> (</p>)
-
-[comment]: <> (* **Operating System**)
-
-[comment]: <> (<p align="center">)
-
-[comment]: <> (    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />)
-
-[comment]: <> (    <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />)
-
-[comment]: <> (    <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />)
-
-[comment]: <> (    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />)
-
-[comment]: <> (</p>)
+<p align="center">
+   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+   <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
+    <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
 
 [comment]: <> (<h3 align="left">Support:</h3>)
