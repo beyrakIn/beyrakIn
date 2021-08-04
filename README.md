@@ -18,7 +18,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=beyrakin&theme=dark&count_private=true&show_icons=true" />
 
-- 🔭 I’m currently working on **E-commerce project**
+- 🔭 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Java, Kotlin, Linux**
 
