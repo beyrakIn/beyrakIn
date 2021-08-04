@@ -20,11 +20,11 @@
 
 - 🔭 I’m currently working on **E-commerce project**
 
-- 💬 Ask me about **Java, React, Flutter**
+- 💬 Ask me about **Java, Kotlin, Linux**
 
 - 📫 How to reach me **beyraklnc@gmail.com**
 
-- 📄 Know about my experiences (Android developer and Web developer)
+- 📄 Know about my experiences (Android developer and Cyber Security Researcher)
 
 - ⚡ Fun fact **Tennis, Music and Game**
 
