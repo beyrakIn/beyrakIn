@@ -76,8 +76,8 @@
 * **Social**
 
 <p align="center">
-    <a target="_blank" href="https://instagram.com/beyrvk">  <img alt="Instagram" src="https://img.shields.io/badge/<beirvk>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  </a> 
-    <a target="_blank" href="https://twitter.com/beyrakmsc"> <img alt="Twitter" src="https://img.shields.io/badge/<beirvk>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
+    <a target="_blank" href="https://instagram.com/beirvk">  <img alt="Instagram" src="https://img.shields.io/badge/<beirvk>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  </a> 
+    <a target="_blank" href="https://twitter.com/beirvk"> <img alt="Twitter" src="https://img.shields.io/badge/<beirvk>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
     <a target="_blank" href="https://www.linkedin.com/in/beyrak/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 * **Store**
