@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Beyrak</h1>
-<!-- <h3 align="center">Mobile developer, Web developer, Cyber security researcher</h3> -->
+<!-- <h3 align="center">Mobile developer, Web developer, Cyber security researcher Have+Knowledge+of+Ethical+Hacking;</h3> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Engineer%F0%9F%92%BB;I'm+Cyber+Security+Enthusiast;Have+Knowledge+of+Ethical+Hacking;I'm+Mobile+developer;Always+try+to+learn+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+Cyber+Security+Enthusiast;I'm+Mobile+developer;Always+try+to+learn+new+things)](https://git.io/typing-svg)
 
 <p align="center"> 
 
