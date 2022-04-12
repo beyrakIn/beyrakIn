@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Beyrak</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=I'm+Cyber+Security+Researcher;I'm+Mobile+developer;Always+try+to+learn+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=F0513FFF&size=30&center=true&vCenter=true&width=1000&height=30&lines=I'm+Cyber+Security+Researcher;I'm+Mobile+developer;Always+try+to+learn+new+things)](https://git.io/typing-svg)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=beyrakin&theme=dark&count_private=true&show_icons=true" />
