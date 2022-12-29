@@ -3,5 +3,5 @@
 
 #   Hi 👋
 
-- Hello, I'm Beyrak. You can ask me something about your problem if I know the answer I will help if I don't I will learn it. My main focus domains are Cybersecurity (`Red Team`, `DFIR`, `Threat Intelligence`), Development (`Go`, `Java`, `Assembly`, etc.), `Linux`, and some things like this. If you want to reach me beyrak[at]beyrak[dot]me. Yep.
+- Hello, I'm Beyrak. You can ask me something about your problem if I know the answer I will help if I don't I will learn it. My main focus domains are Cybersecurity , Development (`Go`, `Java`, `Assembly`, etc.), `Linux`, and some things like this. If you want to reach me beyrak[at]beyrak[dot]me. Yep.
 
