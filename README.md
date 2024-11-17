@@ -1,2 +1,2 @@
-If you want to reach me beyrak[at]exploit[dot]az;
+If you want to reach me beyraklnc[at]gmail[dot]com;
 
