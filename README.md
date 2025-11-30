@@ -13,7 +13,7 @@
 
 ### 📫 reach out
 
-`beyrak[at]exploit[dot]az`
+`beyrak[at]exploit[dot]az`, `beyrak[at]pwn[dot]az`
 
 ---
 
