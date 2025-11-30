@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 hey, i'm beyrak
+# 👋 hey, I'm Beyrak
 
 *security researcher • developer • problem solver*
 
